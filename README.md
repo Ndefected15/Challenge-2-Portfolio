@@ -13,7 +13,7 @@
 
 - https://ndefected15.github.io/Challenge-2-Portfolio/
 
-![alt text](https://github.com/Ndefected15/challenge-1-Horiseon/blob/main/assets/images/screenshot.jpg?raw=true)
+![alt text](https://github.com/Ndefected15/Challenge-2-Portfolio/Challenge 2/assets/images/screenshot.jpg)
 
 ## Contribution
 
