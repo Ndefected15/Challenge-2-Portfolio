@@ -13,7 +13,7 @@
 
 - https://ndefected15.github.io/Challenge-2-Portfolio/
 
-![alt text](Challenge 2/assets/images/screenshot.jpg)
+![alt text](Challenge 2/assets/images/screenshot.jpg?raw=true)
 
 ## Contribution
 
