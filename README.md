@@ -12,7 +12,8 @@
 ## Website
 
 - https://ndefected15.github.io/Challenge-2-Portfolio/
-alt text
+
+![alt text](https://github.com/Ndefected15/challenge-2-Portfolio/assets/images/screenshot.jpg?raw=true)
 
 ## Contribution
 - Created by Nicholas Defex
